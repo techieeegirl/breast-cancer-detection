@@ -1,4 +1,4 @@
-# breast-cancer-detection
+# Breast-cancer-detection
 
 This project focuses on developing a machine learning model to detect breast cancer based on diagnostic features of cell nuclei present in a digitized image of a fine needle aspirate (FNA) of a breast mass. The primary goal is to classify the tumors as either malignant or benign.
 
